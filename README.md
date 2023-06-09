@@ -1,6 +1,6 @@
 # Cesium气泡窗插件
 ### [在线体验](http://mapgl.com/shareCode/#/Heatmap?downUrl=)  
-gitee：[https://gitee.com/caozl1132/cesiumExp-heatmap](https://gitee.com/caozl1132/cesiumExp-heatmap)
+gitee：[https://gitee.com/caozl1132/cesiumExp-heatmap](https://gitee.com/caozl1132/cesiumExp-heatmap)  
 github：[https://github.com/gitgitczl/cesiumExp-heatmap](https://github.com/gitgitczl/cesiumExp-heatmap)
 
 ***
